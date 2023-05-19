@@ -5,6 +5,6 @@ def calcular_media(valores):
     return media
 
 # Ejemplo de uso
-valores = [1, 2, 3, 4, 5]
+valores = [1, 2, 3, 4, 5, 6]
 media = calcular_media(valores)
 print("La media de la lista de valores es:", media)
